@@ -4,7 +4,7 @@ This plist file is simply a version of [dozed's cleanup of the N3 Textmate Bundl
 
 ## Usage
 
-Create a new directory, `N3` in your `~/Library/Application Support/Sublime Text 2/Packages/User` folder. Place this file inside and re-start Sublime. 
+Create a new directory, `N3` in your `~/Library/Application Support/Sublime Text 2/Packages/User` folder. Place the `n3.tmLanguage` file inside and re-start Sublime. 
 
 ## Licence
 
