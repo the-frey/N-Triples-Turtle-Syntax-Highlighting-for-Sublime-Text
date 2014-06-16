@@ -2,6 +2,8 @@
 
 This plist file is simply a version of [dozed's cleanup of the N3 Textmate Bundle](https://github.com/dozed/n3-tmbundle/commit/36989068b7896a1738ddb2fa881acda543600eeb) with (in my opinion) better choices for scope colours than the original. I might add more highlighting rules in future if they become useful.
 
+![Syntax highlighting for Turtle in action](./screen.png?raw=true "Syntax highlighting for Turtle in action")
+
 ## Usage
 
 Create a new directory, `N3` in your `~/Library/Application Support/Sublime Text 2/Packages/User` folder. Place the `n3.tmLanguage` file inside and re-start Sublime. 
